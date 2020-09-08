@@ -1,25 +1,8 @@
 {
-  "name": "css-ddd",
+  "name": "@artisam/monorepo",
   "version": "0.0.0",
-  "description": "CSS for Domain Driven Development",
-  "module": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "browser": "dist/browser.min.js",
+  "description": "Domain Driven Development for Typescript development",
   "author": "Wayne Van Son",
   "license": "MIT",
-  "private": true,
-  "scripts": {
-    "build": "parcel build src/index.ts"
-  },
-  "devDependencies": {
-    "jest": "^26.4.2",
-    "parcel": "^2.0.0-beta.1",
-    "ts-jest": "^26.3.0",
-    "ts-node": "^9.0.0",
-    "typescript": "^4.0.2"
-  },
-  "dependencies": {
-    "fp-ts": "^2.8.2",
-    "monocle-ts": "^2.3.3"
-  }
+  "private": true
 }
