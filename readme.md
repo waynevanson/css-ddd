@@ -1,4 +1,4 @@
-# css-ddd
+# artisam - Standardized DDD for Web Applications
 
 Domain Driven Development is easy to reason about because the code reflects the domain of the application. As the css web specifications have to be backwards compatible and they only support key-value properties, it's hard to appraoch it with a domain driven mindset.
 
