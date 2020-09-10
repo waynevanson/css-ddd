@@ -1,5 +1,5 @@
 import { XY, Measured, Sizes } from "./measurements";
-import { Boxed } from ".";
+import { Boxed } from "./index";
 
 // move elsewher once ready.
 export type Color = string;

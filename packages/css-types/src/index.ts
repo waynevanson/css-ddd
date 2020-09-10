@@ -3,7 +3,7 @@ import { Background } from "./background";
 
 export type Boxed = BoxEdges<Measured<Sizes, number>>;
 
-export type Styles = {
+export type DataStyles = {
   padding: Boxed;
   margin: Boxed;
   background: Background;

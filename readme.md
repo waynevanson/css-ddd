@@ -8,4 +8,6 @@ What will happen over time is that the overhead of understanding the type struct
 
 If you have your css reset (remove browser specific elements), then you'll be able to use an additive approach.
 
+All the types are handy for developers creating parsers.
+
 The first half of the project is to get most of the types in a DDD structure. The second half will be adding a parser so it's W3C CSS compliant.

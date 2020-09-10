@@ -1,5 +1,5 @@
 {
-  "name": "@ddd/artisam-types",
+  "name": "@artisam/css-types",
   "description": "CSS for Domain Driven Development",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
